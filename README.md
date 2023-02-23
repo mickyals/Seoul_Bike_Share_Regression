@@ -10,4 +10,4 @@
 - TBC
 
 # Acknowledgements
-- This model was built using the [Seoul Bike Shaing Demand (2020) dataset from UCI Machine Learning Repository] (https://archive-beta.ics.uci.edu/dataset/560/seoul+bike+sharing+demand).
+- This model was built using the [Seoul Bike Shaing Demand (2020) dataset from UCI Machine Learning Repository](https://archive-beta.ics.uci.edu/dataset/560/seoul+bike+sharing+demand).
